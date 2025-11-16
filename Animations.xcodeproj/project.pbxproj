@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		26B231892ECA56270011AB5D /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animations.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		26B231892ECA56270011AB5D /* Animations.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = Animations.app; path = "/Users/garrettkeyes/Documents/swift_intro/Animations/build/Debug-iphoneos/Animations.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -33,16 +33,7 @@
 			isa = PBXGroup;
 			children = (
 				26B2318B2ECA56270011AB5D /* Animations */,
-				26B2318A2ECA56270011AB5D /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		26B2318A2ECA56270011AB5D /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				26B231892ECA56270011AB5D /* Animations.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -95,7 +86,7 @@
 			mainGroup = 26B231802ECA56270011AB5D;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 26B2318A2ECA56270011AB5D /* Products */;
+			productRefGroup = 26B231802ECA56270011AB5D;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
